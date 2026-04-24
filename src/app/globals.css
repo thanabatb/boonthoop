@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+:root {
+  --background: #faf7f3;
+  --surface: #ffffff;
+  --text-primary: #201d1a;
+  --text-secondary: #6c645b;
+  --border: #e7dfd4;
+  --accent: #5f7a61;
+  --accent-soft: #eef3ec;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--text-primary);
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-serif-display: "Fraunces", ui-serif, Georgia, serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--background);
+}
+
+body {
+  background: var(--background);
+  color: var(--text-primary);
+  font-family: var(--font-plus-jakarta-sans), "Plus Jakarta Sans", sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+::selection {
+  background: rgba(95, 122, 97, 0.18);
+  color: var(--text-primary);
+}

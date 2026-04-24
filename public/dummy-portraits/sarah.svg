@@ -1,0 +1,24 @@
+<svg width="480" height="640" viewBox="0 0 480 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="640" fill="#CFE2E0"/>
+  <rect width="480" height="640" fill="url(#bg)"/>
+  <rect x="40" y="42" width="136" height="28" rx="14" fill="white" fill-opacity="0.72"/>
+  <text x="108" y="60" fill="#242424" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">DUMMY PHOTO</text>
+  <ellipse cx="240" cy="186" rx="128" ry="156" fill="#B7CFCB"/>
+  <path d="M148 625C161 495 203 430 240 430C277 430 319 495 332 625" fill="#EAE6E3"/>
+  <path d="M90 625C113 486 172 412 242 412C312 412 372 486 392 625" fill="#2F3135"/>
+  <path d="M158 278C158 204 200 151 250 151C300 151 338 204 338 278V308C327 270 300 244 265 238L223 231C191 226 168 240 158 278Z" fill="#654536"/>
+  <ellipse cx="246" cy="292" rx="83" ry="108" fill="#E4B99E"/>
+  <circle cx="220" cy="286" r="7" fill="#1E1E1E"/>
+  <circle cx="277" cy="286" r="7" fill="#1E1E1E"/>
+  <path d="M221 340C236 355 259 355 275 340" stroke="#915F4B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M177 268C184 214 205 186 245 184C288 182 319 211 324 279" stroke="#7A5442" stroke-width="17" stroke-linecap="round"/>
+  <rect x="70" y="548" width="340" height="56" rx="28" fill="black" fill-opacity="0.18"/>
+  <text x="240" y="583" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="middle">REPLACE WITH REAL PHOTO</text>
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(307 118) rotate(138.59) scale(535.239 597.919)">
+      <stop stop-color="#EEF7F6"/>
+      <stop offset="0.47" stop-color="#BFD8D3"/>
+      <stop offset="1" stop-color="#7F9B96"/>
+    </radialGradient>
+  </defs>
+</svg>
